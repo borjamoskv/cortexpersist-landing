@@ -1,8 +1,8 @@
-# cortexpersist-landing
+# cortex-persist-landing
 
 Landing-page case study for the original CORTEX Persist launch surface.
 
-![cortexpersist-landing screenshot](docs/screenshots/homepage.png)
+![cortex-persist-landing screenshot](docs/screenshots/homepage.png)
 
 ## Objective
 
